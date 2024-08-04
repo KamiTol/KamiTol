@@ -1,6 +1,6 @@
 # Hola 👋, Soy Gian Toledo
 
-![Banner](https://i.pinimg.com/originals/7d/3b/20/7d3b20a1205c8e3249cda756c2e738f2.gif)
+![Banner](https://i.pinimg.com/originals/3a/51/4e/3a514e37f7559a2864205fbb7591bab4.gif)
 
 Un estudiante de 18 años, apasionado de la programación y la ciberseguridad.
 
