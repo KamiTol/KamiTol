@@ -39,8 +39,8 @@
 | --- | --- | --- |
 | [**LlamaTranscriptor**](https://github.com/KamiTol/LlamaTranscriptor) | Offline desktop app that transcribes audio and video and refines the text with a local LLM | Python · PySide6 · faster-whisper · Ollama |
 | [**clan-rank-bot**](https://github.com/KamiTol/clan-rank-bot) | Discord bot for clan wars, rankings and automatic promotions, with an auditable history and a layered architecture | Python · discord.py |
-| [**Cajero-Distribuido-TCP**](https://github.com/KamiTol/Cajero-Distribuido-TCP) | Client-server ATM over TCP sockets | JavaScript |
-| [**Chat-Cliente-Servidor-TCP**](https://github.com/KamiTol/Chat-Cliente-Servidor-TCP) | Client-server chat over TCP sockets | Java |
+| [**photo-cloud**](https://github.com/KamiTol/photo-cloud) | Distributed media storage: REST, SOAP and gRPC services over shared PostgreSQL and S3-compatible MinIO, deployed across 3 VMs | TypeScript · Go · PHP · PostgreSQL · MinIO |
+| [**RMINoticias**](https://github.com/KamiTol/RMINoticias) | News system over Java RMI with a layered architecture and token authentication | Java · RMI |
 
 ## Tech stack
 
@@ -49,6 +49,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
